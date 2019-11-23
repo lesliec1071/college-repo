@@ -1,7 +1,7 @@
 ## SUNY Old Westbury
 <p4> Suny Old Westbury is located in 
-<b> Old Westbury, NY 11568 <b/> </p4>
-<p5> Suny Old Westbury is a small college enviorment with huge oppurtunties, you can visit their website at <a https://www.suny.edu/campuses/oldwestbury/ >
+    <b> Old Westbury, NY 11568 <b/> </p4>
+<p5> Suny Old Westbury is a small college enviorment with huge oppurtunties, you can visit their website at <a https://www.suny.edu/campuses/oldwestbury/ > 
 
 ### Bachelor's In Criminology 
 <p> <i> Criminology </i> is the scientific study of crime the causes, responses by law enforcement, and methods of prevention. </p>
